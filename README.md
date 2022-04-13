@@ -8,4 +8,4 @@ Sou estudante de Engenharia de Computação pela Universidade Federal de São Pa
 
 <div>
    <a href="https://www.linkedin.com/in/gabriel-bianchi-e-silva-40b963192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<\div>
+</div>
