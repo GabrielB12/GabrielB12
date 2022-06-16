@@ -3,8 +3,9 @@
 Sou estudante de Engenharia de Computação pela Universidade Federal de São Paulo(UNIFESP). Atualmente no sétimo semestre.
 
  <div>
-  <a href="https://github.com/GabrielB12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielB12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GabrielB12/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielB12&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&&hide_title=true&theme=github_dark" />
+</a>
 </div>
 
 <div>
