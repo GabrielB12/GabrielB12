@@ -1,6 +1,6 @@
 # Gabriel-Bianchi
 
-Sou estudante de Engenharia de Computação pela Universidade Federal de São Paulo(UNIFESP). Atualmente no oitavo semestre.
+Sou estudante de Engenharia de Computação pela Universidade Federal de São Paulo(UNIFESP). Atualmente no nono semestre. Também atuo como estagiário de desenvolvimento de software, voltado para programação em nuvem.
 
  <div>
   <a href="https://github.com/GabrielB12/github-readme-stats">
